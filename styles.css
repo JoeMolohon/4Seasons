@@ -1,0 +1,394 @@
+/**Keep underline; usability studies out there say it is good to keep.
+a93833 = red;
+f4f4f4 = parchment;
+ecece9 = cream;
+ddd = grey;
+3959cc = blue-active;
+003A8E = blue-footer;
+ffdfa2 = yellow;
+**/
+
+body {
+	/*background-color: #f4f4f4;*/
+}
+
+nav {
+	background-color: #ecece9;
+	overflow: hidden;
+}
+
+nav a {
+	float: right;
+	color: #333;
+	text-align: center;
+	padding: 14px 30px;
+	text-decoration: none;
+	font-size: 17px;
+}
+
+nav a:hover {
+	background-color: #ddd;
+	color: black;
+}
+
+nav a.active {
+	background-color: #3959cc;
+	color: white;
+}
+
+a {
+	text-decoration: underline;
+}
+
+
+a:hover {
+	color: red;
+}
+
+.menubox {
+	color: #a93833;
+	text-indent: 1em;
+	/*background-color: #f4f4f4;*/
+}
+
+.column {
+	float: left;
+	width: 33.33%;
+	text-indent: 2em;
+	padding-bottom: 1.5em
+}
+
+.column h2 {
+	font-style: bold;
+	text-decoration: underline;
+	color: #3959cc;
+}
+
+.row {
+	background-color: #f4f4f4;
+}
+
+.column1 {
+	float: left;
+	width: 35%;
+	padding: 1em;
+}
+
+.column1 img {
+	padding: 1.5em;
+	width: 455pt;
+}
+
+.column1box {
+	background-color: #ecece9;
+}
+
+.column2 {
+	float: left;
+	width: 60%;
+}
+
+.column2 .textbox{
+	padding: 2em 4em 0 3em;
+}
+
+.column2 h1 {
+	font-size: 36px;
+}
+
+.column2 p {
+	font-size: 19px;
+}
+
+/*Clear floats after the columns */
+.row:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+footer {
+	background-color: #003A8E;
+}
+
+footer:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+footer .address {
+	padding-top: .25em;
+	padding-bottom: .25em;
+	padding-left: 1em;
+	line-height: .75em;
+	color: #f8f8ff;
+	width: 28%;
+	float: left;
+	font-size: 18px;
+}
+
+footer .imagebox {
+	padding-top: 2em;
+	padding-right: 2em;
+	/*background: red;*/
+	float: right;
+}
+
+header {
+	background-color: #f4f4f4;
+}
+
+header:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+header .headerbox1 {
+	/*background-color: blue;*/
+	float: left;
+	width: 28%;
+}
+
+.headerbox1 img {
+	padding: .5em 0 .5em 2em;
+}
+
+header .headerbox2 {
+	float: right;
+	width: 60%;
+}
+
+.headerbox2 {
+	padding: .5em 0 .5em 0;
+}
+
+.headerbox2 img {
+	object-fit: cover;
+	width: 1125px;
+}
+
+
+input[type=text], select, textarea {
+	width: 100%;
+	padding: 12px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+	margin-top: 6px;
+	margin-bottom: 16px;
+	resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #a93833;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #872c28;
+}
+
+.intro {
+	padding-left: 45px;
+	color: #3959cc;
+}
+
+.page {
+	padding-left: 40px;
+	padding-bottom: 20px;
+	background-color: #f4f4f4;
+}
+
+.contact {
+  border-radius: 5px;
+  background-color: #ecece9;
+  padding: 20px 20px 20px 20px;
+  width: 50%;
+  float: left;
+}
+
+.staff {
+	float: left;
+	width: 40%;
+	padding-left: 4em;
+}
+
+.staff1 {
+	background-color: #3959cc;
+	width: 430px;
+}
+
+.staff1 img {
+	width: 400px;
+	padding: 1em;
+}
+
+.staff2 {
+	background-color: #a93833;
+	width: 430px;
+}
+
+.staff2 img {
+	width: 400px;
+	padding: 1em;
+}
+
+.page:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+.format:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+.hours-image {
+	float: left;
+	width: 45%;
+	padding: 1em;
+}
+
+.hours-image img {
+	display: block;
+ 	margin-left: auto;
+  	margin-right: auto;
+}
+
+.hours {
+	float: left;
+	width: 50%;
+}
+
+.hours h1 {
+	font-size: 36px;
+}
+
+.hours li {
+	line-height: 2em;
+	font-size: 19px;
+}
+
+.hours p {
+	font-size: 20px;
+}
+
+.history1 {
+	background-color: #f4f4f4;
+}
+
+.history1:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+.h1-container1 {
+	float: left;
+	width: 40%;
+	padding: 1em 1em 1em 1em;
+}
+
+.h1-image {
+	background-color: #a93833;
+	width: 710px;
+}
+
+.h1-image img {
+	width: 650px;
+	padding: 1em 2em 1em 2em;
+}
+
+.h1-container2 {
+	float: left;
+	width: 50%;
+	padding: 1em;
+}
+
+.h1-container2 p {
+	font-size: 16pt;
+}
+
+.h1-container2 h1 {
+	color: #3959cc;
+}
+
+.history2 {
+	background-color: #f4f4f4;
+}
+
+.history2:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+.h2-container1 {
+	float: left;
+	width: 55%;
+}
+
+.h2-container1 p {
+	padding-left: 2em;
+	font-size: 16pt;
+}
+
+.h2-container1 h1 {
+	padding-left: 1em;
+	color: #3959cc;
+}
+
+.h2-container2 {
+	float: right;
+	width: 40%;
+	padding: 1em 1em 1em 1em;
+}
+
+.h2-image {
+	background-color: #a93833;
+	width: 710px;
+}
+
+.h2-image img {
+	width: 650px;
+	padding: 1em 2em 1em 2em;
+	text-align: right;
+}
+
+.hourbox {
+	background-color: #a93833;
+	width: 350pt;
+	padding: 0em 1em .5em;
+}
+
+.hourbox h1 {
+	color: #ffdfa2;
+	text-decoration: underline;
+}
+
+.hourbox li {
+	color: #ecece9;
+}
+
+.timebox {
+	background-color: #a93833;
+	width: 525pt;
+}
+
+.timebox img {
+	object-fit: scale-down;
+	width: 500pt;
+	padding: 1em;
+}
+
+.format {
+	background-color: #f4f4f4;
+}
