@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<!ELEMENT Breakfast (Title, Section+)>
+<!ELEMENT Supper (Title, Section+)>
+
+<!ELEMENT Title (#PCDATA)>
+
+<!ELEMENT Section (Sub, SubDesc?, (enlist* | entree* | broaster*)*)>
+<!ATTLIST Section name CDATA #REQUIRED>
+
+<!ELEMENT Sub (#PCDATA)>
+
+<!ELEMENT SubDesc (#PCDATA)>
+
+<!ELEMENT entree (item, desc?, price)>
+<!ELEMENT item (#PCDATA)>
+<!ELEMENT desc (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+
+<!ELEMENT enlist (item?, desc?, price?, list+)>
+<!ELEMENT list (bullet, price)>
+<!ELEMENT bullet (#PCDATA)>
+
+<!ELEMENT broaster (desc, list+)>
+

@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Breakfast SYSTEM "menus.dtd">
+<Breakfast>
+<!--'Breakfast' is the root tag of this file.-->
+
+	<Title>4 Seasons Breakfast Menu</Title>
+
+	<Section name="Omelettes">
+		<Sub>Omelettes</Sub>
+		<SubDesc>Served with a choice of hashbrowns or fresh fruit. Also served with a choice of toast or pancake.</SubDesc>
+
+		<entree>
+			<item>The East Shore</item>
+			<desc>Diced ham, onion, green bell peppers, and cheese.</desc>
+			<price>$10.59</price>
+		</entree>
+
+		<entree>
+			<item>Whole Hog</item>
+			<desc>Sausage, bacon, ham, and cheddar cheese.</desc>
+			<price>$10.79</price>
+		</entree>
+
+		<entree>
+			<item>Wildwood Veggie</item>
+			<desc>Zucchini, red and green bell peppers, onions, cheddar, and swiss cheese.</desc>
+			<price>$10.59</price>
+		</entree>
+
+		<entree>
+			<item>The Taco</item>
+			<desc>Spiced taco meat, cheddar cheese, tomatoes, onions, and a side of sour cream and salsa.</desc>
+			<price>$10.79</price>
+		</entree>
+
+	</Section>
+
+	<Section name="Benedicts">
+		<Sub>Benedicts</Sub>
+		<SubDesc>Served with a choice of hashbrowns or fresh fruit.</SubDesc>
+
+		<entree>
+			<item>The Classic 4 Seasons</item>
+			<desc>2 eggs &amp; ham on English Muffin topped with hollandaise.</desc>
+			<price>$10.79</price>
+		</entree>
+
+		<entree>
+			<item>Sausage &amp; Egg</item>
+			<desc>2 eggs &amp; breakfast sausage patties on an English Muffin topped with hollandaise.</desc>
+			<price>$10.79</price>
+		</entree>
+
+		<entree>
+			<item>The Veggy Benny</item>
+			<desc>2 eggs, zucchini, red &amp; green bell peppers, onion on an English Muffin topped with hollandaise.</desc>
+			<price>$10.59</price>
+		</entree>
+
+	</Section>
+
+	<Section name="Specialties">
+		<Sub>Seasons Specialties</Sub>
+		<SubDesc>Served with a choice of hashbrowns or fresh fruit.</SubDesc>
+
+		<entree>
+			<item>4 Seasons Denver</item>
+			<desc>1 egg, slice of ham, and melted cheese on your choice of toasted bread</desc>
+			<price>$7.99</price>
+		</entree>
+
+		<entree>
+			<item>Biscuits and Gravy</item>
+			<desc>Buttermilk biscuits topped with sausage gravy and two large eggs.</desc>
+			<price>$7.99</price>
+		</entree>
+
+	</Section>
+
+	<Section name="Pancakes">
+		<Sub>Pancakes &amp; French Toast</Sub>
+
+		<enlist>
+			<item>Blueberry or Buttermilk Pancakes</item>
+			<list>
+				<bullet>1 Pancake</bullet>
+				<price>$1.69</price>
+			</list>
+			<list>
+				<bullet>2 Pancakes</bullet>
+				<price>$3.19</price>
+			</list>
+			<list>
+				<bullet>3 Pancakes</bullet>
+				<price>$4.89</price>
+			</list>
+		</enlist>
+
+		<entree>
+			<item>Blueberry French Toast</item>
+			<desc>Blueberry swirl bread, sliced and hand-dipped.</desc>
+			<price>$6.79</price>
+		</entree>
+
+		<entree>
+			<item>Raspberry French Toast</item>
+			<desc>Raspberry swirl bread, sliced and hand-dipped.</desc>
+			<price>$6.79</price>
+		</entree>
+
+		<entree>
+			<item>Cinnamon &amp; Apple French Toast</item>
+			<desc>Cinnamon &amp; apple swirl bread, sliced and hand-dipped.</desc>
+			<price>$6.79</price>
+		</entree>
+
+		<entree>
+			<item>Traditional French Toast</item>
+			<desc>Classic French Toast recipe</desc>
+			<price>$5.79</price>
+		</entree>
+
+		<entree>
+			<item>Make Any Pancake or French Toast a Meal</item>
+			<desc>Add 2 eggs with a choice of ham, bacon, or sausage</desc>
+			<price>$4.50</price>
+		</entree>
+
+	</Section>
+
+	<Section name="Scrambles">
+		<Sub>Scrambles</Sub>
+		<SubDesc>Served with 2 eggs, toast, and your choice of hashbrowns or fresh fruit.</SubDesc>
+
+		<entree>
+			<item>Diced Ham</item>
+			<desc>Ham and topped with cheddar cheese.</desc>
+			<price>$8.59</price>
+		</entree>
+
+		<entree>
+			<item>The Country</item>
+			<desc>Sausage, mushrooms, onions, and topped with cheddar cheese.</desc>
+			<price>$8.59</price>
+		</entree>
+
+		<entree>
+			<item>The Veggie</item>
+			<desc>Zucchini, bell peppers, red onions, and topped with cheddar cheese.</desc>
+			<price>$8.39</price>
+		</entree>
+
+	</Section>
+
+	<Section name="More">
+		<Sub>More</Sub>
+		<SubDesc>Served with 2 eggs, toast, and your choice of hashbrowns or fresh fruit.</SubDesc>
+
+		<entree>
+			<item>Ham &amp; Eggs</item>
+			<price>$8.39</price>
+		</entree>
+
+		<entree>
+			<item>Bison &amp; Eggs</item>
+			<price>$9.39</price>
+		</entree>
+
+		<entree>
+			<item>Bacon &amp; Eggs</item>
+			<price>$8.39</price>
+		</entree>
+
+		<entree>
+			<item>Sausage &amp; Eggs</item>
+			<price>$8.39</price>
+		</entree>
+
+		<entree>
+			<item>Burger &amp; Eggs</item>
+			<price>$8.39</price>
+		</entree>
+
+		<entree>
+			<item>Two Eggs</item>
+			<price>$5.69</price>
+		</entree>
+
+	</Section>
+
+
+	<Section name="Sides">
+		<Sub>Sides</Sub>
+
+		<entree>
+			<item>Hashbrowns</item>
+			<price>$3.49</price>
+		</entree>
+
+		<entree>
+			<item>Bacon</item>
+			<price>$3.89</price>
+		</entree>
+
+		<entree>
+			<item>Sausage Links</item>
+			<price>$3.89</price>
+		</entree>
+
+		<entree>
+			<item>Ham</item>
+			<price>$3.89</price>
+		</entree>
+
+		<entree>
+			<item>Beef Patty</item>
+			<price>$3.89</price>
+		</entree>
+
+		<entree>
+			<item>Bison Patty</item>
+			<price>$5.19</price>
+		</entree>
+
+		<entree>
+			<item>Biscuits &amp; Gravy</item>
+			<price>$4.59</price>
+		</entree>
+
+		<entree>
+			<item>Fresh Fruit</item>
+			<price>$2.49</price>
+		</entree>
+
+		<entree>
+			<item>Orange Juice</item>
+			<price>$2.49</price>
+		</entree>
+
+		<entree>
+			<item>Apple Juice</item>
+			<price>$2.49</price>
+		</entree>
+
+		<entree>
+			<item>Milk</item>
+			<price>$2.29</price>
+		</entree>
+
+		<entree>
+			<item>Coffee</item>
+			<price>$1.87</price>
+		</entree>
+
+		<entree>
+			<item>1 Egg</item>
+			<price>$1.25</price>
+		</entree>
+
+		<entree>
+			<item>Toast</item>
+			<price>$1.75</price>
+		</entree>
+
+		<entree>
+			<item>Oatmeal</item>
+			<price>$4.19</price>
+		</entree>
+
+	</Section>
+
+</Breakfast>
