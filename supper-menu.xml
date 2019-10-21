@@ -22,13 +22,13 @@
 
 		<entree>
 			<item>Pizza Bites</item>
-			<desc>8 pepperoni pizza bites served with ranch dressing</desc>
+			<desc>8 pepperoni pizza bites served with ranch dressing.</desc>
 			<price>$7.50</price>
 		</entree>
 
 		<entree>
 			<item>Chicken Tenders</item>
-			<desc>6 all-white-meat, lightly-breaded tenders served with choice of sauce</desc>
+			<desc>6 all-white-meat, lightly-breaded tenders served with choice of sauce.</desc>
 			<price>$9.39</price>
 		</entree>
 
@@ -97,13 +97,13 @@
 
 		<entree>
 			<item>Garden Salad</item>
-			<desc>Mixed greens, mushrooms, bell pepper, onion, tomatoes, and cheese</desc>
+			<desc>Mixed greens, mushrooms, bell pepper, onion, tomatoes, and cheese.</desc>
 			<price>$8.49</price>
 		</entree>
 
 		<entree>
 			<item>Chef Salad</item>
-			<desc>Ham, turkey, tomatoes, egg, fresh veggies, and cheddar &amp; pepperjack cheeses</desc>
+			<desc>Ham, turkey, tomatoes, egg, fresh veggies, and cheddar &amp; pepperjack cheeses.</desc>
 			<price>$9.99</price>
 		</entree>
 
@@ -125,7 +125,7 @@
 
 		<enlist>
 			<item>Wild Rice Chicken Salad</item>
-			<desc>Chicken tenders, craisins, sunflower seeds, red and tangy dressing</desc>
+			<desc>Chicken tenders, craisins, sunflower seeds, red and tangy dressing.</desc>
 			<list>
 				<bullet>Small</bullet>
 				<price>$4.49</price>
@@ -138,19 +138,19 @@
 
 		<entree>
 			<item>Buffalo Chicken Salad</item>
-			<desc>Chicken tenders tossed in buffalo sauce atop mixed greens, diced tomatoes, and cheddar cheese</desc>
+			<desc>Chicken tenders tossed in buffalo sauce atop mixed greens, diced tomatoes, and cheddar cheese.</desc>
 			<price>$10.99</price>
 		</entree>
 
 		<entree>
 			<item>Chicken Breast Salad</item>
-			<desc>Grilled chicken breast on mixed greens, diced tomatoes, and cheddar cheese</desc>
+			<desc>Grilled chicken breast on mixed greens, diced tomatoes, and cheddar cheese.</desc>
 			<price>$10.99</price>
 		</entree>
 
 		<entree>
 			<item>Beef Taco Salad</item>
-			<desc>Seasoned beef on a bed of lettuce with tomatoes, onion, cheddar cheese, salsa, and sour cream</desc>
+			<desc>Seasoned beef on a bed of lettuce with tomatoes, onion, cheddar cheese, salsa, and sour cream.</desc>
 			<price>$10.99</price>
 		</entree>
 	</Section>
@@ -264,37 +264,37 @@
 
 		<entree>
 			<item>Spicy Chicken Burger</item>
-			<desc>Bacon, pepperjack cheese, lettuce, and tomato with garlic sriracha mayo</desc>
+			<desc>Bacon, pepperjack cheese, lettuce, and tomato with garlic sriracha mayo.</desc>
 			<price>$10.49</price>
 		</entree>
 
 		<entree>
 			<item>Buffalo Chicken Sandwich</item>
-			<desc>Buffalo sauce, lettuce, and tomato</desc>
+			<desc>Chicken sandwich with buffalo sauce, lettuce, and tomato.</desc>
 			<price>$10.49</price>
 		</entree>
 
 		<entree>
 			<item>Greek Chicken Sandwich</item>
-			<desc>Marinated chicken breast with cucumbers, tomatoes, lettuce, mozzarella cheese and mayo</desc>
+			<desc>Marinated chicken breast with cucumbers, tomatoes, lettuce, mozzarella cheese and mayo.</desc>
 			<price>$10.49</price>
 		</entree>
 
 		<entree>
 			<item>Seasons' B.L.T.</item>
-			<desc>5 slices of bacon with lettuce, tomato, and mayo</desc>
+			<desc>5 slices of bacon with lettuce, tomato, and mayo.</desc>
 			<price>$12.49</price>
 		</entree>
 
 		<entree>
 			<item>4 Seasons Club</item>
-			<desc>5 slices of bacon, turkey, lettuce, tomato, and mayo</desc>
+			<desc>5 slices of bacon, turkey, lettuce, tomato, and mayo.</desc>
 			<price>$12.49</price>
 		</entree>
 
 		<entree>
 			<item>Fish Hoagie</item>
-			<desc>Fresh battered Atlantic cod with lettuce, tomato, and tartar sauce</desc>
+			<desc>Fresh battered Atlantic cod with lettuce, tomato, and tartar sauce.</desc>
 			<price>$10.49</price>
 		</entree>
 	</Section>
