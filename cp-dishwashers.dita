@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ows_tjm_qjb">
+    <title>Cleanup - Dishwashers</title>
+    <shortdesc>This is the cleaning procedure dishwashers should follow as part of the closing
+        procedure.</shortdesc>
+    <taskbody>
+        <context>
+            <p>All cleanup items should be completed as part of the closing procedure. See "Closing
+                Procedure" for more information.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Obtain as many of the dirty dishes as possible before cleanup. </cmd>
+                <info>This will save you time since the cooks are likely to bring you many more
+                    dishes later on.</info>
+            </step>
+            <step>
+                <cmd>Clean all dirty dishes as necessary. After the initial rush, be sure to empty
+                    any sinks that are not in use.</cmd>
+            </step>
+            <step>
+                <cmd>Once the main body of dishes are clean, begin washing out any sinks not
+                    currently in use. Rinse out any food and then allow the sinks to air-dry.</cmd>
+                <info>Dirty dishes may yet be received during this process. Keep one or two sinks
+                    full for scrubbing these dishes.</info>
+            </step>
+            <step>
+                <cmd>After all dishes and sinks have been cleaned, rinse out the washing machine.
+                    The washing machine should be turned off at this time.</cmd>
+                <substeps id="substeps_vj3_jkm_qjb">
+                    <substep>
+                        <cmd>Rinse out each interior part of the washing machine. You may need to
+                            angle the hose to reach some of these areas.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Rinse out the food trays after the interior of the washing machine is
+                            rinsed. All food should be washed down the drain.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Once the washing machine has been rinsed out, tidy up your workstation.</cmd>
+                <substeps id="substeps_x2j_qkm_qjb">
+                    <substep>
+                        <cmd>Place all clean items back in their original storage areas.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Clean all counters and surfaces in your workstation with a wash cloth
+                            and Natural A solution.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>

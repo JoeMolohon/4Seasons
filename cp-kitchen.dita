@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_rld_1lm_qjb">
+    <title>Cleanup - Kitchen Staff</title>
+    <shortdesc>This is the cleaning procedure kitchen staff should follow as part of the closing
+        procedure.</shortdesc>
+    <taskbody>
+        <context>
+            <p>All cleanup items should be completed as part of the closing procedure. See "Closing
+                Procedure" for more information.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Turn off the fryer, the oven, and any active burners.</cmd>
+                <info>No food prep that involves use of these items should be completed at this
+                    time.</info>
+            </step>
+            <step>
+                <cmd>Return all food items and clean cooking equipment to their original storage
+                    areas.</cmd>
+            </step>
+            <step>
+                <cmd>Prepare a list of items for what will need to be prepared in the morning,
+                    before the restaurant opens.</cmd>
+                <substeps id="substeps_p5k_llm_qjb">
+                    <substep>
+                        <cmd>Post this list on the bulletin board in dry storage.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Clean your workstation.</cmd>
+                <substeps id="substeps_xnc_nlm_qjb">
+                    <substep>
+                        <cmd>Wash all counters with a wash cloth and Natural A solution.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>For metal surfaces, use the special metal cleaning solution. Wipe it
+                            off with a dry rag for shine.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>If there are items to be left out overnight, ensure that they are placed in a
+                    safe location where they will not be knocked over, bumped, or spilled. No
+                    heating or cooking equipment should be left on overnight.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

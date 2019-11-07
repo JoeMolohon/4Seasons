@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_mk4_pmm_qjb">
+    <title>Cleanup - Front-End Staff</title>
+    <shortdesc>This is the cleaning procedure front-end staff should follow as part of the closing
+        procedure.</shortdesc>
+    <taskbody>
+        <context>
+            <p>All cleanup items should be completed as part of the closing procedure. See "Closing
+                Procedure" for more information.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Clean all tables and the main coutner with a wash cloth and Natural A solution. </cmd>
+                <info>Use Windex instead when wiping off the glass of the main counter.</info>
+            </step>
+            <step>
+                <cmd>Set each table according to the table plan.</cmd>
+                <substeps id="substeps_i2m_bnm_qjb">
+                    <substep>
+                        <cmd>Arrange all chairs and stools in their assigned locations.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Ensure each table is outfitted with the required accessories. Tables
+                            should be properly decorated and have four menus each.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Refill all napkin holders to full.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Mop the floor of the front-end area.</cmd>
+                <substeps id="substeps_ifb_lnm_qjb">
+                    <substep>
+                        <cmd>Special attention should be given to the entryways, where dirt or snow
+                            may have been tracked in. The welcome mats should be shaken out as part
+                            of this procedure.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Once the rest of the front has been cleaned, clear the chalkboard and write on
+                    it the information for the next day's specials.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

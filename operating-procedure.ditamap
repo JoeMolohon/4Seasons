@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Restaurant Operating Procedure</title>
+    <topicref href="opening_v1.dita"/>
+    <topicref href="closing_v1.dita"/>
+    <topicgroup>
+        <topicref href="cp-dishwashers.dita"/>
+        <topicref href="cp-kitchen.dita"/>
+        <topicref href="cp-front.dita"/>
+    </topicgroup>
+    <topicref href="e-contact.dita"/>
+</map>

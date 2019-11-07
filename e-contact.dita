@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_s52_whm_qjb">
+    <title>Emergency Contact</title>
+    <shortdesc>If are there any immediate or pressing issues, here is where you can reach
+        me:</shortdesc>
+    <refbody>
+        <simpletable frame="all" id="simpletable_n4q_g3m_qjb">
+            <sthead>
+                <stentry>Contact Method</stentry>
+                <stentry>Information</stentry>
+            </sthead>
+            <strow>
+                <stentry>Cell Phone</stentry>
+                <stentry>612-XXX-XXXX</stentry>
+            </strow>
+            <strow>
+                <stentry>Email</stentry>
+                <stentry>4seasonsrestaurant@gmail.com</stentry>
+            </strow>
+            <strow>
+                <stentry>Facebook Messenger App</stentry>
+                <stentry>Username: 4SeasonsRestaurant</stentry>
+            </strow>
+        </simpletable>
+        <!--Please speak with your immediate supervisor before reaching out to me.-->
+    </refbody>
+</reference>

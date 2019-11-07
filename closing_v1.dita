@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_bbp_21m_qjb">
+    <title>Closing Procedure</title>
+    <shortdesc>The closing procedure for evening staff of Four Seasons Restaurant.</shortdesc>
+    <taskbody>
+        <context>
+            <p>This is a general outline of the closing procedure. It will not cover all instances.
+                Sometimes, things will change. If there any issues please refer to the Emergency
+                Contact section.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>After the final customer has left, close and lock the front doors. </cmd>
+                <info>No additional customers should be received past our open hours, even if
+                    earlier customers are still present.</info>
+            </step>
+            <step>
+                <cmd>Turn off all cooking equipment.</cmd>
+            </step>
+            <step>
+                <cmd>Begin closeout procedures for the cash register.</cmd>
+                <info>A detailed help sheet for this procedure can be found in the drawer beneath
+                    the register.</info>
+            </step>
+            <step>
+                <cmd>Begin cleanup procedures. Cleanup procedures are divided based on staff job.
+                    See "Cleanup Procedures" for reference.</cmd>
+                <info>Although our staff have responsibilities specific to their positions, we
+                    encourage our employees to help out the others once they have completed their
+                    own responsiblities.</info>
+            </step>
+            <step>
+                <cmd>As part of cleanup, cooks should leave a list of items for food prep for the
+                    next day on the bulletin board in dry storage.</cmd>
+            </step>
+            <step>
+                <cmd>After cleanup, it is the responsibility of the closer to ensure that they are
+                    the last one to leave the restaurant. Employees should gather all personal
+                    belongings before leaving.</cmd>
+                <info>There is one designated closer for each closing shift. Usually, this will be
+                    the supervisor, but this will not always be the case. Check the shift calendar
+                    for when you are the closer.</info>
+            </step>
+            <step>
+                <cmd>After the other employees have left, the closer is expected to lock up the
+                    restaurant.</cmd>
+                <substeps id="substeps_hd5_4cm_qjb">
+                    <substep>
+                        <cmd>Verify that all items are put away.</cmd>
+                        <info>Don't stay too long if there many items to put away. The morning shift
+                            will take care of whatever you don't have time to manage.</info>
+                    </substep>
+                    <substep>
+                        <cmd>Turn off the front sign and all inside lights.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Exit the restaurant via the back door. Close and lock it with the back
+                            door key.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Return the back door key to the lockbox on the fence to the left of the
+                            back door.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Once these items have been completed, the restaurant is considered closed for
+                    the night.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

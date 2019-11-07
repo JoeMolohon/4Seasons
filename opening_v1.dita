@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_tdv_54f_qjb">
+    <title>Opening Procedure</title>
+    <shortdesc>The opening procedure for morning staff of Four Seasons Restaurant.</shortdesc>
+    <taskbody>
+        <context>
+            <p>This is a general outline of the opening procedure. It will not cover all instances.
+                Sometimes, things will change. If there any issues please refer to the Emergency
+                Contact section.</p>
+        </context>
+        <steps id="steps_ncg_h3g_qjb">
+            <step>
+                <cmd>Park your car behind the restaurant, in the employee-designated area.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the restaurant via the back door. The front door should remain locked
+                    until the restaurant is officially open. </cmd>
+            </step>
+            <step>
+                <cmd>Use the provided code to open the lockbox on the fence to the left of the back
+                    door.</cmd>
+            </step>
+            <step>
+                <cmd>Take the key from the lockbox and use it to open the back door. </cmd>
+                <substeps id="substeps_pnm_plg_qjb">
+                    <substep>
+                        <cmd>Return the key to the lockbox after the door is unlocked.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Enter the back area and begin getting things squared away.</cmd>
+                <substeps id="substeps_at1_dmg_qjb">
+                    <substep>
+                        <cmd>It is OK to keep the back door unlocked until the restaurant has
+                            opened. Once the restaurant is opened, the back door should be used for
+                            deliveries only.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Verify that the kitchen is prepped for the day ahead.</cmd>
+                <substeps id="substeps_unf_gmg_qjb">
+                    <substep>
+                        <cmd>Confirm that the cleaning procedures from the night before were
+                            followed. If they were not, tidy up as necessary.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Confirm that the necessary food prep has been done. If it was not, prep
+                            the necessary food items.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Confirm that the food equipment is in working order.</cmd>
+                <substeps id="substeps_yws_jng_qjb">
+                    <substep>
+                        <cmd>Ensure all burners on the stove are lit.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Ensure there is ample cooking oil in the fryer. Set internal
+                            temperature of the fryers to 300 degrees.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Verify that all pans and dishes are present. An empty hook or slot
+                            means something is missing.</cmd>
+                        <info>Check dishwasher area for missing items. Dirty items will need to be
+                            cleaned before use.</info>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Verify that the front area is ready to receive customers.</cmd>
+                <substeps id="substeps_zhx_xyl_qjb">
+                    <substep>
+                        <cmd>Confirm that the cleaning procedures from the night before were
+                            followed. If they were not, tidy up as necessary.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Give each table a once-over with a cleaning cloth and Natural A
+                            solution. Allow the solution to air-dry and then lightly rinse each
+                            table.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Arrange table decorations after the rinse has air-dryed.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Turn on the cash register and run the "Program Start" process outlined
+                            in the help sheet in the drawer below the register.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>After you have confirmed that the front and back areas are ready for the day
+                    ahead, begin the necessary food prep.</cmd>
+                <info>The prep list should be posted on the bulletin board within dry
+                    storage.</info>
+            </step>
+            <step>
+                <cmd>Ten minutes before opening (usually 8:00 AM), turn on the front signs and turn
+                    on the lights for the front area.</cmd>
+                <substeps id="substeps_i2b_szl_qjb">
+                    <substep>
+                        <cmd>At 8:00 AM, unlock the front doors and begin receiving customers.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>
