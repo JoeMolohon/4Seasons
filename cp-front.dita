@@ -11,8 +11,9 @@
         </context>
         <steps>
             <step>
-                <cmd>Clean all tables and the main coutner with a wash cloth and Natural A solution. </cmd>
-                <info>Use Windex instead when wiping off the glass of the main counter.</info>
+                <cmd>Clean all tables and the main counter with a wash cloth and Natural A solution. </cmd>
+                <info>Use Windex instead of Natural A when wiping off the glass of the main
+                    counter.</info>
             </step>
             <step>
                 <cmd>Set each table according to the table plan.</cmd>
@@ -21,8 +22,8 @@
                         <cmd>Arrange all chairs and stools in their assigned locations.</cmd>
                     </substep>
                     <substep>
-                        <cmd>Ensure each table is outfitted with the required accessories. Tables
-                            should be properly decorated and have four menus each.</cmd>
+                        <cmd>Ensure each table is outfitted with the proper accessories. Tables
+                            should have the seasonal decoration and have four menus each.</cmd>
                     </substep>
                     <substep>
                         <cmd>Refill all napkin holders to full.</cmd>

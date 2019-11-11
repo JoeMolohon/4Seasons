@@ -2,6 +2,7 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>Restaurant Operating Procedure</title>
+    <topicref href="open-close_concept.dita"/>
     <topicref href="opening_v1.dita"/>
     <topicref href="closing_v1.dita"/>
     <topicgroup>

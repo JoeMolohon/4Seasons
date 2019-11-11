@@ -6,8 +6,8 @@
     <taskbody>
         <context>
             <p>This is a general outline of the opening procedure. It will not cover all instances.
-                Sometimes, things will change. If there any issues please refer to the Emergency
-                Contact section.</p>
+                Sometimes, things will change. If there any issues please refer to the "Emergency
+                Contact" section.</p>
         </context>
         <steps id="steps_ncg_h3g_qjb">
             <step>
@@ -34,8 +34,8 @@
                 <substeps id="substeps_at1_dmg_qjb">
                     <substep>
                         <cmd>It is OK to keep the back door unlocked until the restaurant has
-                            opened. Once the restaurant is opened, the back door should be used for
-                            deliveries only.</cmd>
+                            opened. During open hours, the back door should be used for deliveries
+                            only.</cmd>
                     </substep>
                 </substeps>
             </step>
@@ -98,8 +98,8 @@
                     storage.</info>
             </step>
             <step>
-                <cmd>Ten minutes before opening (usually 8:00 AM), turn on the front signs and turn
-                    on the lights for the front area.</cmd>
+                <cmd>Ten minutes before opening (usually 8:00 AM), turn on the restaurant signs as
+                    well as the lights for the front area.</cmd>
                 <substeps id="substeps_i2b_szl_qjb">
                     <substep>
                         <cmd>At 8:00 AM, unlock the front doors and begin receiving customers.</cmd>

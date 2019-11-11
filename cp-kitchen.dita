@@ -12,8 +12,7 @@
         <steps>
             <step>
                 <cmd>Turn off the fryer, the oven, and any active burners.</cmd>
-                <info>No food prep that involves use of these items should be completed at this
-                    time.</info>
+                <info>No food prep requiring heat should be completed at this time.</info>
             </step>
             <step>
                 <cmd>Return all food items and clean cooking equipment to their original storage
@@ -35,8 +34,8 @@
                         <cmd>Wash all counters with a wash cloth and Natural A solution.</cmd>
                     </substep>
                     <substep>
-                        <cmd>For metal surfaces, use the special metal cleaning solution. Wipe it
-                            off with a dry rag for shine.</cmd>
+                        <cmd>For metal surfaces, use a dry rag and the special cleaning solution for
+                            metal. This will impart a shine to these metal surfaces.</cmd>
                     </substep>
                 </substeps>
             </step>

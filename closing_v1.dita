@@ -6,8 +6,8 @@
     <taskbody>
         <context>
             <p>This is a general outline of the closing procedure. It will not cover all instances.
-                Sometimes, things will change. If there any issues please refer to the Emergency
-                Contact section.</p>
+                Sometimes, things will change. If there any issues please refer to the "Emergency
+                Contact" section.</p>
         </context>
         <steps>
             <step>
@@ -19,7 +19,7 @@
                 <cmd>Turn off all cooking equipment.</cmd>
             </step>
             <step>
-                <cmd>Begin closeout procedures for the cash register.</cmd>
+                <cmd>Begin close out procedures for the cash register.</cmd>
                 <info>A detailed help sheet for this procedure can be found in the drawer beneath
                     the register.</info>
             </step>
@@ -47,16 +47,16 @@
                     restaurant.</cmd>
                 <substeps id="substeps_hd5_4cm_qjb">
                     <substep>
-                        <cmd>Verify that all items are put away.</cmd>
-                        <info>Don't stay too long if there many items to put away. The morning shift
-                            will take care of whatever you don't have time to manage.</info>
+                        <cmd>Verify that all items have been stored in their proper locations.</cmd>
+                        <info>This part of the process should only take 15 minutes at most. If there
+                            are too many items, leave them for the morning shift to manage.</info>
                     </substep>
                     <substep>
                         <cmd>Turn off the front sign and all inside lights.</cmd>
                     </substep>
                     <substep>
-                        <cmd>Exit the restaurant via the back door. Close and lock it with the back
-                            door key.</cmd>
+                        <cmd>Exit the restaurant via the back door. Close and lock the door with the
+                            back door key.</cmd>
                     </substep>
                     <substep>
                         <cmd>Return the back door key to the lockbox on the fence to the left of the
