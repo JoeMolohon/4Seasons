@@ -8,19 +8,32 @@
 <body>
  <header>
 	<div class="headerbox1">
- 		<img src="images/4seasons_logo.jpg" height="250px">
+ 		<a href="home.html"><img src="images/4seasons_logo.jpg" height="250px"></a>
  	</div>
  	<div class="headerbox2">
  		<img src="images/4seasons_banner-cut.jpg" height="250px">
  	</div>
  </header>
- <nav role="navigation">
+  <nav class="topnav" role="navigation" id="myTopnav">
+ 	  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+ 	  	<i class="fa fa-bars"><img src="images/dropdown_v2.png" height="30px"></i>
+ 	  </a>
       <a href="contact.html" title="Contact Us" class="active">Contact Us</a>
       <a href="about.html" title="About Us">About</a>
  	  <a href="hours.html" title="Our Hours">Hours</a>
  	  <a href="menu.html" title="Our Menu">Menu</a>
       <a href="home.html" title="Home">Home</a>
   </nav>
+  <script>
+  	function myFunction() {
+  		var x = document.getElementById("myTopnav");
+  		if (x.className === "topnav") {
+  			x.className += " responsive";
+  		} else {
+  			x.className = "topnav";
+  		}
+  	}
+  </script>
   	<div class="intro">
 	<h1>Contact Us</h1>
 	<p>Feel free to reach out to us about reservations, events, or any questions you might have!</p> 
@@ -35,12 +48,10 @@
 -->
 <div class="page">
 	<div class="contact">
-		<form action="/action_page.php">
-			<label for="fname">First Name</label>
-			<input type="text" id="fname" name="firstname" placeholder="Your name...">
-
-			<label for="lname">Last Name</label>
-			<input type="text" id="lname" name="lastname" placeholder="Your last name...">
+		<form method="post" name="contactform" action="mailto:emailrouter33@gmail.com" enctype="text/plain">
+		<!--<form action="/action_page.php">-->
+			<label for="name">Name</label>
+			<input type="text" id="name" name="name" placeholder="Your first and last name...">
 
 			<label for="email">Email Address</label>
 			<input type="text" id="email" name="email" placeholder="Your contact info...">
@@ -69,8 +80,8 @@
 		<p>Mahtomedi, MN 55115</p>
 	</div>
 	<div class="imagebox">
-		<a href="https://www.facebook.com/The4SeasonsRestaurant/?epa=SEARCH_BOX"><img src="images/4seasons_fb-icon2.png" width=60px height=60px></a>
-		<a href="https://www.instagram.com/The4SeasonsRestaurant/"><img src="images/instagram-icon.png" width=60px height=60px></a>
+		<a href="https://www.facebook.com/The4SeasonsRestaurant/?epa=SEARCH_BOX"><img src="images/4seasons_fb-icon2.png"></a>
+		<a href="https://www.instagram.com/The4SeasonsRestaurant/"><img src="images/instagram-icon.png"></a>
 	</div>
 </footer>
 </body>
